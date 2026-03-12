@@ -1,5 +1,6 @@
 # Scabies Incidence Analysis
 This repository contains the code and dataset used for the statistical analysis of scabies incidence data in my undergraduate thesis project.
+
 The study applies time series and regression techniques to analyze patterns in the incidence of scabies and identify periods of higher outbreak occurrence.
 
 ## Files in this Repository
